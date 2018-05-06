@@ -1,0 +1,13 @@
+# dependencies
+/node_modules
+/.idea
+/platforms
+platforms
+/app/**/*.js
+/app/**/*.css
+/.vscode
+/.vs
+run-android.sh
+
+!/app/app.css
+!/app/fonts/fontawesome.css
