@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "232590826902",
+    "firebase_url": "https://hub256-services.firebaseio.com",
+    "project_id": "hub256-services",
+    "storage_bucket": "hub256-services.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232590826902:android:e35914d45a9016da",
+        "android_client_info": {
+          "package_name": "foundation.hub256.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232590826902-r1841oarg1155djkdrohimbp2elb37cc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLVdYU_7r4C3qdBhWpDXtRg_gJzLypy6A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

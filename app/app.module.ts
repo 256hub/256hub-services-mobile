@@ -2,7 +2,6 @@ import { NgModule, NgModuleFactoryLoader, NO_ERRORS_SCHEMA } from "@angular/core
 import { NativeScriptModule } from "nativescript-angular/nativescript.module";
 
 import { AppRoutingModule } from "./app-routing.module";
-import { AuthorizationModule } from "./authorization/authorization.module"
 import { AppComponent } from "./app.component";
 
 @NgModule({
@@ -11,8 +10,7 @@ import { AppComponent } from "./app.component";
     ],
     imports: [
         NativeScriptModule,
-        AppRoutingModule,
-        AuthorizationModule
+        AppRoutingModule
     ],
     declarations: [
         AppComponent

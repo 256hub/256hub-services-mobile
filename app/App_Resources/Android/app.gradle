@@ -8,7 +8,7 @@
 android {  
   defaultConfig {  
     generatedDensities = []
-    applicationId = "foundation.hub256.hub256services"  
+    applicationId = "foundation.hub256.services"  
   }  
   aaptOptions {  
     additionalParameters "--no-version-vectors"  
